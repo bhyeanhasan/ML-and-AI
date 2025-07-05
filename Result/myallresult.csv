@@ -1,0 +1,73 @@
+Course Code,Course Title,Credit Hours,Grade,Grade Point,Semester
+PHY 111,Physics-I (Repeat),3,C,2.25,L1S1
+PHY 112,Physics-I Sessional,0.75,B-,2.75,L1S1
+CHE 111,Chemistry,3,A-,3.5,L1S1
+CHE 112,Chemistry Sessional,0.75,B-,2.75,L1S1
+MAT 111,Mathematics-I,3,D,2,L1S1
+EEE 111,Basic Electrical Engineering,3,B+,3.25,L1S1
+EEE 112,Basic Electrical Engineering Sessional,1.5,B-,2.75,L1S1
+CIT 111,Programming Language,3,A+,4,L1S1
+CIT 112,Programming Language Sessional,1.5,A+,4,L1S1
+CCE 112,Engineering Drawing,0.75,A+,4,L1S1
+PHY 121,Physics-II (Repeat),3,B+,3.25,L1S2
+PHY 122,Physics-II Sessional,0.75,A,3.75,L1S2
+MAT 121,Mathematics-II,3,C+,2.5,L1S2
+CIT 121,Discrete Mathematics,3,A-,3.5,L1S2
+LCM 121,Communicative English,2,B,3,L1S2
+EEE 121,Electronic Device and Circuits,3,C+,2.5,L1S2
+EEE 122,Electronic Device and Circuits Sessional,1.5,A-,3.5,L1S2
+CCE 121,Object Oriented Programming,3,A+,4,L1S2
+CCE 122,Object Oriented Programming Sessional,1.5,A+,4,L1S2
+CIT 211,Data Structure and Algorithms,3,B+,3.25,L2S1
+CIT 212,Data Structure and Algorithms Sessional,1.5,A+,4,L2S1
+CIT 213,Software Engineering,3,B-,2.75,L2S1
+CCE 211,Data Communication and Engineering,3,B,3,L2S1
+MAT 211,Mathematics-III,3,C+,2.5,L2S1
+EEE 211,Electrical Technology,3,A+,4,L2S1
+EEE 212,Electrical Technology Sessional,1.5,A+,4,L2S1
+AIS 211,Accounting and Management,3,A,3.75,L2S1
+CCE 221,Digital Logic Design,3,B+,3.25,L2S2
+CCE 222,Digital Logic Design Sessional,1.5,B,3,L2S2
+CCE 223,Database System,3,B-,2.75,L2S2
+CCE 224,Database System Sessional,1.5,A+,4,L2S2
+AIS 221,Government and Economics,3,A-,3.5,L2S2
+MAT 221,Mathematics-IV,3,B+,3.25,L2S2
+CIT 220,Web Programming Project,1.5,A+,4,L2S2
+CIT 221,Information System Analysis and Design,3,B,3,L2S2
+CIT 222,Information System Analysis and Design Sessional,1.5,A,3.75,L2S2
+CIT 311,Microprocessor and Assembly Language,3,A-,3.5,L3S1
+CIT 312,Microprocessor and Assembly Language Sessional,1.5,A,3.75,L3S1
+CIT 313,Computer Organization and Architecture,3,B+,3.25,L3S1
+CIT 315,Artificial Intelligence,3,B,3,L3S1
+CIT 316,Artificial Intelligence Sessional,1.5,A+,4,L3S1
+CCE 310,Software Development Project-I,1.5,A,3.75,L3S1
+CCE 311,Numerical Methods,3,C+,2.5,L3S1
+CCE 312,Numerical Methods Sessional,0.75,B+,3.25,L3S1
+CCE 313,Computer Networks,3,B-,2.75,L3S1
+CCE 314,Computer Networks Sessional,1.5,A+,4,L3S1
+CCE 320,Software Development Project-II,1.5,A+,4,L3S2
+CIT 321,Operating System,3,A,3.75,L3S2
+CIT 322,Operating System Sessional,1.5,A+,4,L3S2
+CIT 323,Simulation and Modeling,3,B+,3.25,L3S2
+CIT 324,Simulation and Modeling Sessional,1.5,A+,4,L3S2
+EEE 321,Digital Electronics and Pulse Techniques,3,A,3.75,L3S2
+EEE 322,Digital Electronics and Pulse Techniques Sessional,0.75,A,3.75,L3S2
+CCE 321,Computer Peripheral and Interfacing,3,C,2.25,L3S2
+CCE 322,Computer Peripheral and Interfacing Sessional,1.5,A+,4,L3S2
+CCE 323,Optical Fiber Communication,3,B+,3.25,L3S2
+CCE 410,Project/Thesis,3,A+,4,L4S1
+CCE 412,Industrial Training,1,A+,4,L4S1
+CCE 411,Algorithm Engineering,3,B-,2.75,L4S1
+CCI 413,VLSI Design,3,C+,2.5,L4S1
+CCI 415,Network Routing and Switching,3,B,3,L4S1
+CCI 416,Network Routing and Switching Sessional,1.5,B+,3.25,L4S1
+CCI 417,Data Warehousing and Mining,3,B,3,L4S1
+CIT 411,Compiler Design and Automata Theory,3,C+,2.5,L4S1
+CIT 412,Compiler Design and Automata Theory Sessional,1.5,A-,3.5,L4S1
+CCE 420,Project/Thesis 2,3,A+,4,L4S2
+CCE 421,Seminar,0.75,A,3.75,L4S2
+CCI 421,Cryptography and Network Security,3,B+,3.25,L4S2
+CCI 423,Wireless and Cellular Communication,3,C,2.25,L4S2
+CIT 421,Computer Graphics and Image Processing,3,A+,4,L4S2
+CIT 422,Computer Graphics and Image Processing Sessional,0.75,A+,4,L4S2
+CIT 423,(Optional) Machine Learning,3,C+,2.5,L4S2
